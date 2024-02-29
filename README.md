@@ -9,7 +9,7 @@ These Python scripts are basic tools that can be modified and/or combined to bui
 
 ___________________________________________________________________________________________________________________________________________________________________
 DATA DESCRIPTION:
-The data for dataImport.py are .txt files containing lists of stellar magnitudes. 
+The data for dataImport.py are .txt files containing lists of stellar magnitudes. The data for the other scripts are self-contained arrays that are defined within each script. 
 
 
 ___________________________________________________________________________________________________________________________________________________________________
